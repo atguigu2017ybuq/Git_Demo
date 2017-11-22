@@ -7,6 +7,6 @@ public class GitDemoTest {
     private String name;
     
     public static void main(String[] args) {
-		System.out.println("我是彦祖，我为自己代言！");
+		System.out.println("我是彦祖，我为自己代言！鼓掌");
 	}
 }
